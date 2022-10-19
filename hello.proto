@@ -17,7 +17,6 @@ message Product {
   int32 id = 1;
   string name = 2;
   string description = 3;
-  bool any_good = 4;
 }
 
 message Products {
